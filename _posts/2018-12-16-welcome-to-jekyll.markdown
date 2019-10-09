@@ -1,15 +1,20 @@
 ---
 layout: post
-title:  "第一篇测试博客"
-date:   2018-12-16 17:08:13 +0800
+title: 第一篇测试博客
+date: '2018-12-16 17:08:13 +0800'
 categories: jekyll update
+published: true
 ---
 
 第一篇测试博客的内容
 
+#测试使用prose.io编辑博客#
+
+
 {% highlight ruby %}
 mua~
 {% endhighlight %}
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
